@@ -166,6 +166,8 @@ Fake-News-Detector
 ├── README.md
 │
 └── requirements.txt
+
+
 🚀 How to Run the Project
 1️⃣ Clone the repository
 git clone https://github.com/yourusername/fake-news-detector.git
