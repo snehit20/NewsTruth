@@ -154,6 +154,7 @@ predict_news("This is the official government website of India.")
 
 predict_news("NASA confirms aliens are real and living in Canada!")
 → Fake News
+
 📁 Project Structure
 Fake-News-Detector
 │
