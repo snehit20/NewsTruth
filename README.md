@@ -155,18 +155,6 @@ predict_news("This is the official government website of India.")
 predict_news("NASA confirms aliens are real and living in Canada!")
 → Fake News
 
-📁 Project Structure
-Fake-News-Detector
-│
-├── Fake.csv
-├── True.csv
-│
-├── fake_news_detector.ipynb
-│
-├── README.md
-│
-└── requirements.txt
-
 
 🚀 How to Run the Project
 1️⃣ Clone the repository
@@ -190,6 +178,7 @@ nltk
 scikit-learn
 langdetect
 translate
+
 🎯 Future Improvements
 
 Possible improvements for the project:
